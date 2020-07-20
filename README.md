@@ -1,10 +1,9 @@
 <img src="https://github.com/Dhananjayyy/Dhananjayyy/blob/master/Dhananjay_Yelwande2.jpg">
 
-### Hi 👋
+### Hi there, I'm Dhananjay 👋
 I am looking for opportunities and collabaration in projects related to data science, machine learning and iot.
 - 🔭 I’m currently preparing for TensorFlow Developer Certificate Exam with Coursera's help.
 - 🌱 I’m currently learning Edge AI IoT with Intel on Udacity.
-- 🤝 I’m looking to collaborate. 
 
 
 ![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["stars","issues"])
