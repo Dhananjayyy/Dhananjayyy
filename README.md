@@ -6,7 +6,7 @@ I am looking for opportunities and collabaration in projects related to data sci
 - 🌱 I’m currently learning Edge AI IoT with Intel on Udacity.
 
 
-![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["stars","issues"])
+<!--- ![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["total_stars","issues"]) -->
 
 - :blush: Connect with me on :
 
