@@ -2,8 +2,9 @@
 
 ### Hi there, I'm Dhananjay 👋
 I am looking for opportunities and collabaration in projects related to data science, machine learning and iot.
-- 🔭 I’m currently preparing for TensorFlow Developer Certificate Exam with Coursera's help.
-- 🌱 I’m currently learning Edge AI IoT with Intel on Udacity.
+- 🔭 I’m currently preparing for MongoDB Java Certification.
+- 🌱 I’m currently learning AI and ML on Udacity.
+- ❄️ Currently looking for a job.
 
 
 <!--- ![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["total_stars","issues"]) -->
