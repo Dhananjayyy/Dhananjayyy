@@ -1,4 +1,4 @@
-<img src="https://github.com/Dhananjayyy/Dhananjayyy/blob/master/Dhananjay_Yelwande2.jpg">
+<!--<img src="https://github.com/Dhananjayyy/Dhananjayyy/blob/master/Dhananjay_Yelwande2.jpg">-->
 
 ### Hi there, I'm Dhananjay 👋
 Currently pursuing PG-DAC (Advanced Computing) from CDAC.
