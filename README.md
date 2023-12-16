@@ -1,10 +1,7 @@
 <img src="https://github.com/Dhananjayyy/Dhananjayyy/blob/master/Dhananjay_Yelwande2.jpg">
 
 ### Hi there, I'm Dhananjay 👋
-I am looking for opportunities and collabaration in projects related to data science, machine learning and iot.
-- 🔭 I’m currently preparing for MongoDB Java Certification.
-- 🌱 I’m currently learning AI and ML on Udacity.
-- ❄️ Currently looking for a job.
+Currently pursuing PG-DAC (Advanced Computing) from CDAC.
 
 
 <!--- ![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["total_stars","issues"]) -->
