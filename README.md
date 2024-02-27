@@ -1,7 +1,7 @@
 <!--<img src="https://github.com/Dhananjayyy/Dhananjayyy/blob/master/Dhananjay_Yelwande2.jpg">-->
 
 ### Hi there, I'm Dhananjay 👋
-Currently pursuing PG-DAC (Advanced Computing) from CDAC.
+Finished PG-DAC (Advanced Computing) from CDAC.
 
 
 <!--- ![Dhananjay's github stats](https://github-readme-stats.vercel.app/api?username=Dhananjayyy&show_icons=true&hide=["total_stars","issues"]) -->
