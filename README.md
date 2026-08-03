@@ -1,11 +1,15 @@
-<div align="center">
-<img src="./assets/header.svg" width="100%" alt="Dhananjay Yelwande — Full-Stack Engineer, Systems, AI, Real-Time" />
-</div>
+<!-- <div align="center">
+<img src="./header.svg" width="100%" alt="Dhananjay Yelwande — Full-Stack Engineer, Systems, AI, Real-Time" />
+</div> -->
 
 <br/>
 
 <div align="center">
-<i>Two years designing, building, and shipping enterprise web, real-time IoT,<br/>and AI-driven systems — end to end, from architecture to production.</i>
+<h1>Dhananjay Yelwande</h1>
+</div>
+
+<div align="center">
+<b>2+ years designing, building, and shipping enterprise web, real-time IoT,<br/>and AI-driven systems. end to end, from architecture to production.</b>
 </div>
 
 <br/>
