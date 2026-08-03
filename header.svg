@@ -1,0 +1,6 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#fbfbfd"/>
+  <text x="80" y="150" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="300" letter-spacing="-1" fill="#1d1d1f">Dhananjay Yelwande</text>
+  <text x="81" y="188" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.2" fill="#6e6e73">FULL-STACK ENGINEER — SYSTEMS, AI, REAL-TIME</text>
+  <line x1="80" y1="224" x2="1120" y2="224" stroke="#d2d2d7" stroke-width="1"/>
+</svg>
