@@ -14,8 +14,45 @@
 <b>I have 2+ years designing, building, and shipping enterprise web, real-time IoT,<br/>and AI driven systems.</b>
 </div>
 <br/>
+<div align="center">
 
- 
+❖
+
+</div>
+<div align="center">
+<h3>Check Out Projects I Have Worked On</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://knowyourcompliance.co.in"><strong>Know Your Compliance</strong></a><br>
+      <sub>Compliance & Environmental Management Platform</sub>
+    </td>
+    <td align="center">
+      <a href="https://yukayantra.com"><strong>YuKa Yantra</strong></a><br>
+      <sub>Real-Time Environmental Monitoring Dashboard</sub>
+    </td>
+    <td align="center">
+      <a href="https://moes.gg"><strong>Ministry of Esports</strong></a><br>
+      <sub>Gaming & Esports Platform</sub>
+    </td>
+    <td align="center">
+      <a href="https://techknowgreen.com"><strong>Techknowgreen and Oña</strong></a><br>
+      <sub>Official Website and AI Assistant</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<h3>Built With Love Using</h3>
+
+</div>
+
+
 <table align="center">
 <tr>
 <td><b>Languages</b></td>
@@ -79,8 +116,14 @@
 </tr>
 </table>
 
+<br/>
+<div align="center">
 
-<h2 align="center">Connect with Me</h2>
+❖
+
+</div>
+
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <strong>Email:</strong> <a href="mailto:yelwandedhananjay@gmail.com">yelwandedhananjay@gmail.com</a>
