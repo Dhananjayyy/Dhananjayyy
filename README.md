@@ -14,10 +14,7 @@
 <b>I have 2+ years designing, building, and shipping enterprise web, real-time IoT,<br/>and AI driven systems.</b>
 </div>
 
-<br/>
-<div align="center">
-<h2 >My Technical Stack</h2>
-</div>
+
  
 <table align="center">
 <tr>
@@ -82,9 +79,13 @@
 </tr>
 </table>
 
-## Connect with Me
 
-* **Email:** [yelwandedhananjay@gmail.com](mailto:yelwandedhananjay@gmail.com)
-* **Phone:** +91 9657212458
-* **LinkedIn:** https://linkedin.com/in/dhananjay-yelwande
+<h2 align="center">Connect with Me</h2>
 
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:yelwandedhananjay@gmail.com">yelwandedhananjay@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Phone:</strong> <a href="tel:+919657212458">+91 9657212458</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/dhananjay-yelwande">linkedin.com/in/dhananjay-yelwande</a>
+</p>
