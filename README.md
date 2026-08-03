@@ -13,7 +13,7 @@
 <div align="center">
 <b>I have 2+ years designing, building, and shipping enterprise web, real-time IoT,<br/>and AI driven systems.</b>
 </div>
-
+<br/>
 
  
 <table align="center">
